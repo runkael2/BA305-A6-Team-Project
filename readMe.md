@@ -3,7 +3,7 @@
 ## Team Members
 
 - Rachael
-- Nick Chan
+- Nick
 - Levent
 - Josh
 
